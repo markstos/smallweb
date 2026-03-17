@@ -443,6 +443,7 @@ http://maple.pet/blog.atom
 http://marcobonvini.com/feed.xml
 http://marcosh.github.io/feed.xml
 http://mark---lawrence.blogspot.com/atom.xml
+http://mark.stosberg.com/rss/
 http://markBernstein.org/news.rss
 http://markbivens.com/m/feed
 http://markdalgleish.com/atom.xml
