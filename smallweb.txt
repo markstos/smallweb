@@ -451,6 +451,7 @@ http://markbivens.com/m/feed
 http://markdalgleish.com/atom.xml
 http://markforster.squarespace.com/blog/atom.xml
 http://markus-projects.net/atom
+http://mark.stosberg.com/rss/
 http://martin.drashkov.com/atom.xml
 http://martyromero.me/atom.xml
 http://massivegreatness.com/feed
